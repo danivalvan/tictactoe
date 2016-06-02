@@ -1,0 +1,24 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+}
+#whos_turn {
+    font-size: 300%;
+    text-align: center;
+}
+#table {
+    width: 450px;
+    margin: 20px auto;
+    background-color: black;
+    height: 450px;
+}
+.block {
+    width: 150px;
+    height: 150px;
+    float: left;
+    border: 1px solid white;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    line-height: 150px;
+    font-size: 300%;
+}
